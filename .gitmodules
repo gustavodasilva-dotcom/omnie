@@ -1,0 +1,9 @@
+[submodule "omnie-pdv-worker"]
+	path = omnie-pdv-worker
+	url = https://github.com/gustavodasilva-dotcom/omnie-pdv-worker
+[submodule "omnie-pdv-api"]
+	path = omnie-pdv-api
+	url = https://github.com/gustavodasilva-dotcom/omnie-pdv-api
+[submodule "omnie-pdv-ui"]
+	path = omnie-pdv-ui
+	url = https://github.com/gustavodasilva-dotcom/omnie-pdv-ui
